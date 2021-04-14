@@ -1,4 +1,4 @@
-package hash;
+package b_hash;
 
 import java.util.Scanner;
 

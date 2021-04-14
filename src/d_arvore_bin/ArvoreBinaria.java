@@ -1,4 +1,4 @@
-package arvore_bin;
+package d_arvore_bin;
 
 import java.util.*;
 

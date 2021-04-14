@@ -1,4 +1,4 @@
-package monk;
+package c_monk;
 
 import java.util.Arrays;
 

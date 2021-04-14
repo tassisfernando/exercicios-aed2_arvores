@@ -1,4 +1,4 @@
-package arvore_bin.github;
+package d_arvore_bin.github;
 
 import java.io.*;
 import java.util.*;

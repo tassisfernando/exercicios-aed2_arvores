@@ -1,4 +1,4 @@
-package navalha_batal;
+package a_navalha_batal;
 
 import java.util.Scanner;
 
