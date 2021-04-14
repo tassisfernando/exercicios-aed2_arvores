@@ -1,4 +1,4 @@
-# Exercícios AED-2
+# Exercícios AED-2 - Árvores
 Exercícios desenvolvidos na disciplina de Algoritmo e Estrutura de Dados 2.
 
 Lista dos problemas e assunto relacionado: <br>
